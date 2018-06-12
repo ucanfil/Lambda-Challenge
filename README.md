@@ -1,17 +1,12 @@
-# Lambda Challenge 
+# Web Development Lambda Challenge 
 
-If you have not yet filled out the form at [https://lambdaschool.com/challenge/](https://lambdaschool.com/challenge/) please do that before submitting your pull request.
+If you have not yet filled out the form at https://lambdaschool.com/web-challenge/ please do that before submitting your pull request.
 
 In order to remove even more barriers for those that want to participate in Lambda School, we've created the Lambda Challenge.
 
-Based on our data, we are confident that if you can complete the Lambda Challenge, we can help you learn to code, and get a job as a developer. We're willing to bet on you.
+Based on our data, we are confident that if you can complete the Lambda Challenge, we can help you learn to code, and get a job as a web developer. This test enables you to bypass the regular precourse work. 
 
-Pending a final interview, those that complete the Lambda Challenge successfully may be invited to attend Lambda School without paying anything upfront; no loans, no debt, and no upfront tuition. 
-Pay nothing at all until you're making $50k+ as a software engineer.
-
-After the completion of the Lambda Challenge, we'll schedule you for a priority interview, and you can skip the pre-course work that we normally require.
-
-If the questions in here are too difficult then you can begin working through our regular precourse work which covers the fundamentals [here](https://github.com/LambdaSchool/Precourse).
+You should also complete an application for our webdev course if you have not already done so. Apply [here](https://github.com/LambdaSchool/Precourse).
 
 ## Prerequisites
 
